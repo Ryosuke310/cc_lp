@@ -387,7 +387,21 @@ a {
     }
     .q__content__inner{
         margin:0 5%;
-        padding:35px 5%;
+        padding:5px 5% 35px 5%;
+    }
+    .q__content__inner__box {
+        margin-top: 40px;
+    }
+    .q__content__inner__box__title > img{
+        width: 15%;
+    }
+    .q__content__inner__box__title > p {
+        font-size:1.0rem;
+        letter-spacing: .1em;
+    }
+    .q__content__inner__box__txt {
+        margin: 25px 0 0 0;
+        padding: 0 5%;
     }
     .info{
         margin-top:40px;

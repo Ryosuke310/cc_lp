@@ -335,6 +335,9 @@ a {
         border-radius: 10px;
         background: #ffffff;
     }
+    .top__content__button > a {
+        padding:16px 5%;
+    }
     .cta__content{
         margin:35px 0 0 0;
         padding:0 5%;
@@ -393,13 +396,16 @@ a {
         margin: 0 5%;
     }
     .info__content__inner__top > p{
-        font-size:1.0rem;
+        font-size:0.9rem;
     }
     .info__content__inner__under{
         padding:0 1% 10px 1%;
     }
     .info__content__inner__under__content1{
         width:100%;
+    }
+    .info__content__inner__under__content1 > p{
+        font-size:0.8rem;
     }
     .info__content__inner__under__content2__txt{
         width:100%;

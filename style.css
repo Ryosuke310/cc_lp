@@ -342,8 +342,11 @@ a {
         margin:35px 0 0 0;
         padding:0 5%;
     }
+    .service__content {
+        margin: 0 5%;
+    }
     .service__content__inner__box{
-        width: 40%;
+        width: 43%;
     }
     .service__content__inner__box > p{
         font-size: 0.8rem;
